@@ -1,3 +1,4 @@
+#这个东西就是微软推出的，可以将iOS应用转成window10应用的开源框架，从微软团队那转来的，有兴趣的可以研究研究
 # WinObjC-Samples
 The Windows Bridge for iOS (also referred to as WinObjC) is a Microsoft open-source project that provides an Objective-C development environment for Visual Studio and support for iOS APIs. This repo contains the project's sample apps and example code.
 
